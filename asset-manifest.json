@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/todo-react/static/css/main.ffac1514.chunk.css",
+    "main.js": "/todo-react/static/js/main.87933585.chunk.js",
+    "main.js.map": "/todo-react/static/js/main.87933585.chunk.js.map",
+    "runtime~main.js": "/todo-react/static/js/runtime~main.6986de36.js",
+    "runtime~main.js.map": "/todo-react/static/js/runtime~main.6986de36.js.map",
+    "static/js/2.caa8e877.chunk.js": "/todo-react/static/js/2.caa8e877.chunk.js",
+    "static/js/2.caa8e877.chunk.js.map": "/todo-react/static/js/2.caa8e877.chunk.js.map",
+    "static/js/3.7fa365a8.chunk.js": "/todo-react/static/js/3.7fa365a8.chunk.js",
+    "static/js/3.7fa365a8.chunk.js.map": "/todo-react/static/js/3.7fa365a8.chunk.js.map",
+    "index.html": "/todo-react/index.html",
+    "precache-manifest.3c29518cd220c4079efcf483dcd7b15a.js": "/todo-react/precache-manifest.3c29518cd220c4079efcf483dcd7b15a.js",
+    "service-worker.js": "/todo-react/service-worker.js",
+    "static/css/main.ffac1514.chunk.css.map": "/todo-react/static/css/main.ffac1514.chunk.css.map"
+  }
+}
